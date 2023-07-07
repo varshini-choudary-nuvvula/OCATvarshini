@@ -49,7 +49,7 @@
     "eslint-plugin-sort-destructure-keys": "^1.3.3",
     "react-hot-loader": "^4.12.11",
     "serve": "^11.1.0",
-    "stylelint": "^13.3.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-recommended": "^3.0.0",
     "typescript": "^3.5.3"
   }
